@@ -10,3 +10,11 @@ def home():
 @app.route('/projects/', methods=["GET"])
 def projects():
         return redirect(url_for('projects'))
+
+@app.route('/experience/', methods=["GET"])
+def experience():
+        return redirect(url_for('experience'))
+
+@app.route('/contact/', methods=["GET"])
+def contact():
+        return redirect(url_for('contact'))
