@@ -2,6 +2,11 @@ p{
     text-decoration: none;
 }
 
+#pageHeader{
+    color: black;
+    text-align: center;
+}
+
 h1{
     color: black;
     text-align: center;
@@ -14,18 +19,22 @@ h4{
 
 a:link{
     text-decoration: none;
+    color: black;
 }
 
 a:visited{
     text-decoration: none;
+    color: black;
 }
 
 a:hover{
     text-decoration: none;
+    color: black;
 }
 
 a:active{
     text-decoration: none;
+    color: black;
 }
 
 nav {
