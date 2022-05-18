@@ -4,10 +4,12 @@ p{
 
 h1{
     color: black;
+    text-align: center;
 }
 
 h4{
-    color: grey ;
+    color: rgb(93, 92, 92) ;
+    text-align: center;
 }
 
 a:link{
@@ -30,6 +32,7 @@ nav {
     margin: auto;
     color: #02673d;
     width: 90%;
+    font-size: 16px;
 }
 
 nav ul {
@@ -38,16 +41,18 @@ nav ul {
     padding: 0px;
     display: flex;
     align-items: center;
+    font-size: 16px;
 }
 
 nav ul li a {
     color: #e7e7e7;
     padding: 24px;
     display: block;
+    font-size: 16px;
 }
 
 nav ul a:hover, 
 nav ul a:focus {
     color: #024027;
-    background-color: #020202;
+    font-size: 16px;
 }
