@@ -1,2 +1,2 @@
-# katemacvicar_personalWebsite
+# katemacvicar
 This is my personal website
