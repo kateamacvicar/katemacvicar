@@ -7,36 +7,19 @@
     <meta name=author content="">
     <div role=”Base-HTML” aria-label= "Base-HTML"></div>
     <link rel='stylesheet' href="{{url_for('static', filename = 'style.css')}}">
-    {% block head_stuff %} {% endblock %}
 </head>
 <body>
  
-<!-- {% with messages = get_flashed_messages() %}
-{% if messages %}
-<div id="messages">
-  {% for msg in messages %}
-  <p>{{msg}}</p>
-  {% endfor %}
-</div>
-{% endif %}
-{% endwith %} -->
-       
- 
-{% block nav %}
 <div role=”navigation” aria-label= "Main Menu"></div>
 <nav>
   <ul>
-    <li><a href="{{url_for('home')}}">Home</a></li>
+    <li><a href="">Home</a></li>
 <!--     <li><a href="{{url_for('projects')}}">Projects</a></li>
     <li><a href="{{url_for('experience')}}">Work Experience</a></li>
     <li><a href="{{url_for('contact')}}"></a>Contact Me</li> -->
   </ul>
 </nav>
-{% endblock %}
- 
-  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-  {% block end_scripts %}
-  {% endblock %}
+
  
 </body>
 </html>
