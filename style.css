@@ -56,3 +56,17 @@ nav ul a:focus {
     color: #024027;
     font-size: 16px;
 }
+
+.intro{
+    background-color: rgb(193, 251, 245);
+}
+
+#introHeading{
+    color: #02673d;
+    text-align: left;
+}
+
+#introP{
+    color: #02673d;
+    text-align: left;
+}
