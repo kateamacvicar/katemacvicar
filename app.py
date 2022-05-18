@@ -18,3 +18,20 @@ def experience():
 @app.route('/contact/', methods=["GET"])
 def contact():
         return redirect(url_for('contact'))
+
+@app.before_first_request
+def init_db():
+   dbi.cache_cnf()
+   db_to_use = 'socialfy_db'
+   dbi.use(db_to_use)
+ 
+if __name__ == '__main__':
+   import sys, os
+   if len(sys.argv) > 1:
+       # arg, if any, is the desired port number
+       port = int(sys.argv[1])
+       assert(port>1024)
+   else:
+       port = os.getuid()
+   app.debug = True
+   app.run('0.0.0.0',port)
