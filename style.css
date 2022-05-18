@@ -1,0 +1,26 @@
+nav {
+    margin: auto;
+    background-color: #202020;
+    color: #e7e7e7;
+    width: 90%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li a {
+    color: #e7e7e7;
+    padding: 24px;
+    display: block;
+}
+
+nav ul a:hover, 
+nav ul a:focus {
+    color: rgb(239, 70, 205);
+    background-color: #020202;
+}
