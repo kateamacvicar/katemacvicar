@@ -12,7 +12,16 @@ h1{
     text-align: center;
 }
 
+h3{
+    text-align: center;
+    color: #02673d;
+}
+
 h4{
+    text-align: center;
+}
+
+#pageSubHeader{
     color: rgb(156, 154, 154) ;
     text-align: center;
 }
@@ -90,4 +99,8 @@ nav ul a:focus {
     color: #02673d;
     text-align: left;
     font-size: 15px;
+}
+
+.socialfyVideo{
+    margin: auto;
 }
