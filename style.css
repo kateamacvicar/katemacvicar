@@ -30,27 +30,28 @@ h4{
 #pageSubHeader{
     color: rgb(156, 154, 154) ;
     text-align: center;
+    font-size: 18px;
 }
 
 a:link{
     text-decoration: none;
-    color: black;
+    color: #1faa70;;
 }
 
 a:visited{
     text-decoration: none;
-    color: black;
+    color: #1faa70;;
 }
 
 a:hover{
     text-decoration: none;
-    color: black;
+    color: #025a35;
 }
 
-a:active{
+/* a:active{
     text-decoration: none;
     color: black;
-}
+} */
 
 .navBar{
     margin: auto;
@@ -115,7 +116,7 @@ nav ul a:focus {
     padding: 30px;
     background-color: rgb(245, 245, 245);
     margin: auto;
-    width: 60%;
+    width: 70%;
 }
 
 .jobP{
@@ -132,6 +133,7 @@ nav ul a:focus {
     display: block;
     margin: auto;
     justify-content: center;
+    padding-top: 20px;
 }
 
 .footer{
