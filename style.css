@@ -71,7 +71,6 @@ nav ul {
     justify-content: center;
     font-size: 25px;
     font-weight: bold;
-    padding: 24px;
 }
 
 nav ul li {
@@ -87,7 +86,6 @@ nav ul a:focus {
     color: #02673d;
     font-size: 25px;
     font-weight: bold;
-    padding: 24px;
 }
 
 .headerImg{
