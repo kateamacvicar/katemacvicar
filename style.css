@@ -89,7 +89,7 @@ nav ul a:focus {
 
 .headerImg{
     margin: auto;
-    display: flex;
+    display: block;
     justify-content: center;
     
 }
