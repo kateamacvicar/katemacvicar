@@ -59,13 +59,11 @@ a:active{
 
 nav {
     margin: auto;
-    color: #02673d;
     width: 90%;
     font-size: 25px;
 }
 
 nav ul {
-    color: #02673d;
     list-style-type: none;
     margin: auto;
     display: flex;
@@ -75,7 +73,6 @@ nav ul {
 }
 
 nav ul li {
-    color: #02673d;
     padding: 24px;
     display: block;
     font-weight: bold;
@@ -84,7 +81,7 @@ nav ul li {
 
 nav ul a:hover, 
 nav ul a:focus {
-    color: #02673d;
+    color: #025a35;
     font-size: 25px;
     font-weight: bold;
 }
@@ -144,7 +141,10 @@ nav ul a:focus {
 }
 
 #footerP{
-    color:rgb(215, 242, 239);
+    color:rgb(171, 240, 232);
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-size: 28px;
 }
 
