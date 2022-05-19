@@ -65,6 +65,7 @@ nav {
 }
 
 nav ul {
+    color: #02673d;
     list-style-type: none;
     margin: auto;
     display: flex;
@@ -74,7 +75,7 @@ nav ul {
 }
 
 nav ul li {
-    color: #9e0101;
+    color: #02673d;
     padding: 24px;
     display: block;
     font-weight: bold;
@@ -113,6 +114,7 @@ nav ul a:focus {
 }
 
 .jobDiv{
+    background-color: rgb(230, 230, 230);
     margin: auto;
     width: 60%;
 }
