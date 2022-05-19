@@ -112,7 +112,7 @@ nav ul a:focus {
 }
 
 .jobDiv{
-    padding: 10px;
+    padding: 30px;
     background-color: rgb(245, 245, 245);
     margin: auto;
     width: 60%;
@@ -142,9 +142,9 @@ nav ul a:focus {
 
 #footerP{
     color:rgb(171, 240, 232);
-    padding-top: 30px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top: 06px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-size: 28px;
 }
 
