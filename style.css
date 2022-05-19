@@ -97,6 +97,7 @@ nav ul a:focus {
 }
 
 .intro{
+    display: flex;
     background-color: rgb(215, 242, 239);
     padding: 20px;
 }
