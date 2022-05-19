@@ -116,6 +116,7 @@ nav ul a:focus {
 }
 
 .footer{
+    display: flex;
     background-color: #0f6952;
     padding: 20px;
 }
