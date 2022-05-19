@@ -115,12 +115,14 @@ nav ul a:focus {
 }
 
 .jobDiv{
-    background-color: rgb(230, 230, 230);
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
     margin: auto;
     width: 60%;
 }
 
 .jobP{
+    margin: auto;
     text-align: center;
     width: 60%;
 }
