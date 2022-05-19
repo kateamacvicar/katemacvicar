@@ -82,25 +82,35 @@ nav ul a:focus {
 
 .headerImg{
     margin: auto;
+    align-content: center;
 }
 
 .intro{
-    background-color: rgb(226, 255, 252);
+    background-color: rgb(233, 254, 252);
     padding: 15px;
 }
 
 #introHeading{
-    color: #02673d;
+    color: #025e47;
     text-align: left;
     font-size: 25px;
 }
 
 #introP{
-    color: #02673d;
+    color: #025e47;
     text-align: left;
     font-size: 23px;
 }
 
 .socialfyVideo{
     margin: auto;
+}
+
+.footer{
+    background-color: #025e47;
+}
+
+#footerP{
+    color:rgb(233, 254, 252);
+    font-size: 23px;
 }
