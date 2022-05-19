@@ -13,7 +13,7 @@ h1{
 }
 
 h4{
-    color: rgb(93, 92, 92) ;
+    color: rgb(156, 154, 154) ;
     text-align: center;
 }
 
@@ -35,6 +35,11 @@ a:hover{
 a:active{
     text-decoration: none;
     color: black;
+}
+
+.navBar{
+    margin: auto;
+    align-items: center;
 }
 
 nav {
@@ -62,20 +67,23 @@ nav ul li a {
 
 nav ul a:hover, 
 nav ul a:focus {
-    color: #024027;
+    color: #02673d;
     font-size: 16px;
 }
 
 .intro{
-    background-color: rgb(193, 251, 245);
+    background-color: rgb(226, 255, 252);
+    padding: 15px;
 }
 
 #introHeading{
     color: #02673d;
     text-align: left;
+    font-size: 20px;
 }
 
 #introP{
     color: #02673d;
     text-align: left;
+    font-size: 15px;
 }
