@@ -113,9 +113,13 @@ nav ul a:focus {
     font-size: 28px;
 }
 
-.socialfy{
+.jobDiv{
     margin: auto;
-    width: 50%;
+    width: 60%;
+}
+
+.jobP{
+    text-align: center;
 }
 
 .socialfyVideo{
