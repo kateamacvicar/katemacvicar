@@ -70,7 +70,6 @@ nav ul {
     justify-content: center;
     font-size: 25px;
     font-weight: bold;
-    color: #058b69
 }
 
 nav ul li {
@@ -82,7 +81,7 @@ nav ul li {
 
 nav ul a:hover, 
 nav ul a:focus {
-    color: #025e47;
+    color: #02673d;
     font-size: 25px;
 }
 
@@ -90,6 +89,7 @@ nav ul a:focus {
     margin: auto;
     display: flex;
     justify-content: center;
+    
 }
 
 .intro{
