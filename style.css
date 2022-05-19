@@ -1,3 +1,8 @@
+.body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 p{
     text-decoration: none;
 }
@@ -14,7 +19,7 @@ h1{
 
 h3{
     text-align: center;
-    color: #02673d;
+    color: #000000;
 }
 
 h4{
@@ -63,11 +68,13 @@ nav ul {
     margin: auto;
     padding: 0px;
     display: flex;
-    align-items: center;
+    align-content: center;
     font-size: 25px;
+    background-color: #9e0101;
+    font-weight: bold;
 }
 
-nav ul li a {
+nav ul li {
     color: #9e0101;
     padding: 24px;
     display: block;
@@ -87,7 +94,7 @@ nav ul a:focus {
 
 .intro{
     background-color: rgb(233, 254, 252);
-    padding: 15px;
+    padding: 20px;
 }
 
 #introHeading{
@@ -108,6 +115,7 @@ nav ul a:focus {
 
 .footer{
     background-color: #025e47;
+    padding: 20px;
 }
 
 #footerP{
