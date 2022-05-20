@@ -12,6 +12,7 @@
 
 p{
     text-decoration: none;
+    font-size: 25px;
 }
 
 #pageHeader{
@@ -186,6 +187,8 @@ nav ul a:focus {
 .expHeading{
     color: rgb(5, 91, 71);
     font-weight: bold;
+    margin: auto;
+    text-align: center;
 }
 
 .skillsHeading{
@@ -196,4 +199,8 @@ nav ul a:focus {
 
 .courseSemester{
     font-weight: bold;
+}
+
+.courseDesc{
+    width: 40%;
 }
