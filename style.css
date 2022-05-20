@@ -143,8 +143,7 @@ nav ul a:focus {
     margin: auto;
     text-align: center;
     width: 60%;
-    font-size: 25;
-    color:rgb(248, 0, 0)
+    font-size: 30;
 }
 
 .socialfyVideo{
@@ -183,4 +182,9 @@ nav ul a:focus {
 .contact{
     text-align: center;
     padding: 20px;
+}
+
+.exp{
+    margin: auto;
+    text-align: center;
 }
