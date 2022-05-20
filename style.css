@@ -159,14 +159,15 @@ nav ul a:focus {
 .footer{
     display: flex;
     background-color: #0f6952;
+    padding: 10px;
 }
 
 #footerP{
     color:rgb(171, 240, 232);
     padding-top: 200px;
     padding-left: 40px;
-    padding-right: 40px;
-    font-size: 28px;
+    /* padding-right: 40px; */
+    font-size: 35px;
     width: 40%;
 }
 
