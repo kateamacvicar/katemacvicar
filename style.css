@@ -125,7 +125,7 @@ nav ul a:focus {
     text-align: left;
     font-size: 35px;
     width: 40%;
-    padding-top: 120px;
+    padding-top: 100px;
     padding-left: 90px;
     padding-right: 30px;
 }
@@ -162,7 +162,7 @@ nav ul a:focus {
 
 #footerP{
     color:rgb(171, 240, 232);
-    padding-top: 80px;
+    padding-top: 60px;
     padding-left: 40px;
     /* padding-right: 40px; */
     font-size: 35px;
