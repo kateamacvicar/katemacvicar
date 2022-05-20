@@ -173,6 +173,10 @@ nav ul a:focus {
 }
 
 .burdockImg{
+    margin: auto;
+}
+
+.teaLabel{
     padding-top: 20px; 
     margin: auto;
     display: block;
