@@ -4,6 +4,12 @@
     padding-right: 20px;
 }
 
+.projectBody{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #c7eddd;
+}
+
 p{
     text-decoration: none;
 }
@@ -118,7 +124,7 @@ nav ul a:focus {
 
 .jobDiv{
     padding: 30px;
-    background-color: rgb(245, 245, 245);
+    background-color: #a5dfc7;
     margin: auto;
     width: 70%;
 }
