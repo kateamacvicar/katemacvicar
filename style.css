@@ -134,6 +134,7 @@ nav ul a:focus {
     padding: 30px;
     margin: auto;
     width: 70%;
+    background: white;
 }
 
 .jobP{
@@ -141,7 +142,6 @@ nav ul a:focus {
     text-align: center;
     width: 60%;
     font-size: 30;
-    background: white;
 }
 
 .socialfyVideo{
@@ -158,7 +158,7 @@ nav ul a:focus {
 .footer{
     display: flex;
     background-color: #0f6952;
-    padding: 10px;
+    padding: 20px;
 }
 
 #footerP{
@@ -211,7 +211,8 @@ nav ul a:focus {
 
 .courseDesc{
     width: 40%;
-    padding-left: 200px;
+    padding-left: 300px;
+    text-align: center;
 }
 
 .skills{
