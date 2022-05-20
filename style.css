@@ -190,7 +190,7 @@ nav ul a:focus {
 
 .exp{
     margin: auto;
-    align-content: center;
+    padding-left: 50%;
 }
 
 .expHeading{
