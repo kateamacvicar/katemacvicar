@@ -190,5 +190,9 @@ nav ul a:focus {
 
 .exp{
     margin: auto;
-    text-align: center;
+    align-content: center;
+}
+
+.expHeading{
+    color: rgb(4, 75, 58)
 }
