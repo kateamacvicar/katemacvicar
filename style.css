@@ -130,6 +130,7 @@ nav ul a:focus {
     margin: auto;
     text-align: center;
     width: 60%;
+    font-size: 18;
 }
 
 .socialfyVideo{
@@ -151,9 +152,9 @@ nav ul a:focus {
 
 #footerP{
     color:rgb(171, 240, 232);
-    padding-top: 60px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
     font-size: 28px;
     width: 40%;
 }
