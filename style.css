@@ -10,6 +10,10 @@
     background-color: #c7eddd;
 }
 
+.skillsBody{
+    display: flex;
+}
+
 p{
     text-decoration: none;
     font-size: 20px;
@@ -19,7 +23,6 @@ p{
     color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
-    font-family: source serif pro;
 }
 
 h1{
