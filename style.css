@@ -20,6 +20,10 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
 h3{
     text-align: center;
     color: #000000;
@@ -190,9 +194,10 @@ nav ul a:focus {
 
 .exp{
     margin: auto;
-    padding-left: 50%;
+    padding-left: 500px;
 }
 
 .expHeading{
-    color: rgb(4, 75, 58)
+    color: rgb(5, 91, 71);
+    font-weight: bold;
 }
