@@ -105,14 +105,14 @@ nav ul a:focus {
 
 #introHeading{
     color: #025e47;
-    text-align: left;
+    text-align: right;
     font-size: 35px;
 }
 
 #introP{
     color: #025e47;
     text-align: left;
-    font-size: 28px;
+    font-size: 35px;
     width: 40;
     padding-top: 60px;
     padding-left: 30px;
