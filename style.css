@@ -123,9 +123,9 @@ nav ul a:focus {
 #introP{
     color: #025e47;
     text-align: left;
-    font-size: 35px;
+    font-size: 30px;
     width: 40%;
-    padding-top: 100px;
+    padding-top: 90px;
     padding-left: 90px;
     padding-right: 30px;
 }
@@ -163,10 +163,10 @@ nav ul a:focus {
 
 #footerP{
     color:rgb(171, 240, 232);
-    padding-top: 60px;
+    padding-top: 50px;
     padding-left: 40px;
     /* padding-right: 40px; */
-    font-size: 35px;
+    font-size: 30px;
     width: 40%;
 }
 
