@@ -7,7 +7,7 @@
 .projectBody{
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #c7eddd;
+    background-color: #e0f5ec;
 }
 
 .skillsBody{
@@ -141,6 +141,7 @@ nav ul a:focus {
     text-align: center;
     width: 60%;
     font-size: 30;
+    background: white;
 }
 
 .socialfyVideo{
@@ -211,5 +212,11 @@ nav ul a:focus {
 .courseDesc{
     width: 40%;
     padding-left: 200px;
+}
+
+.skills{
+    background-color: #0f6952;
+    padding: 10px;
+    color: rgb(171, 240, 232);
 }
 
