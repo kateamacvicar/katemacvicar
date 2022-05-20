@@ -49,26 +49,6 @@ h4{
     color: #045d38;
 }
 
-/* a:link{
-    text-decoration: none;
-    color: #1faa70;;
-}
-
-a:visited{
-    text-decoration: none;
-    color: #1faa70;;
-}
-
-a:hover{
-    text-decoration: none;
-    color: #025a35;
-} */
-
-/* a:active{
-    text-decoration: none;
-    color: black;
-} */
-
 .navBar{
     margin: auto;
     align-items: center;
@@ -194,10 +174,20 @@ nav ul a:focus {
 
 .exp{
     margin: auto;
-    padding-left: 500px;
+    padding-left: 300px;
 }
 
 .expHeading{
     color: rgb(5, 91, 71);
+    font-weight: bold;
+}
+
+.skillsHeading{
+    color: rgb(5, 91, 71);
+    font-weight: bold;
+    text-align: center;
+}
+
+.courseSemester{
     font-weight: bold;
 }
