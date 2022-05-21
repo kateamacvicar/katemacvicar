@@ -212,6 +212,7 @@ nav ul a:focus {
 .courseDesc{
     width: 40%;
     text-align: center;
+    padding: 300px;
 }
 
 .skills{
