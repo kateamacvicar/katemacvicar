@@ -7,7 +7,7 @@
 .projectBody{
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #e0f5ec;
+    background-color: #ecf6f2;
 }
 
 .skillsBody{
@@ -221,3 +221,6 @@ nav ul a:focus {
     color: rgb(171, 240, 232);
 }
 
+.icon{
+    padding: 10px;
+}
