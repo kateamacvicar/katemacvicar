@@ -219,6 +219,7 @@ nav ul a:focus {
 .expHeading{
     color: rgb(5, 91, 71);
     font-weight: bold;
+    padding: -200px;
 }
 
 .skillsHeading{
@@ -271,7 +272,7 @@ nav ul a:focus {
 
 .projectIcons{
     display: flex;
-    margin: auto;
+    justify-content: center;
     padding: 20px;
 }
 
