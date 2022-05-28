@@ -8,7 +8,6 @@
 .projectBody{
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #ecf6f2;
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -157,7 +156,7 @@ nav ul a:focus {
     padding: 15px;
     margin: auto;
     width: 70%;
-    background: white;
+    background-image: linear-gradient(to bottom right, #025e47, #50ceae);
 }
 
 .jobP{
