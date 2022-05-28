@@ -253,12 +253,16 @@ nav ul a:focus {
     width: 300px;
     background-color: rgb(47, 108, 94);
     color: rgb(171, 240, 232);
+    padding: 20px;
+    margin-left: 100px;
 }
 
 .software{
     width: 300px;
     background-color: rgb(171, 240, 232);
-    color: rgb(47, 108, 94); 
+    color: rgb(47, 108, 94);
+    padding: 20px; 
+    margin-left: 100px;
 }
 
 .icon{
@@ -278,7 +282,7 @@ nav ul a:focus {
 .usedLanguages{
     display: flex;
     padding: 10px;
-
+    margin-right: 10px;
 }
 
 #ReactNative{
