@@ -234,52 +234,65 @@ nav ul a:focus {
 }
 
 .slideshow-container {
-    max-width: 1000px;
     position: relative;
     margin: auto;
   }
 
-  .mySlides {
-    display: none;
-  }
-
-  .prev, .next {
-    cursor: pointer;
+slider{
+    display: block;
+    width: 50%;
+    height: 90%;
+    overflow: hidden;
     position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -22px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
+}
 
-  /* Position the "next button" to the right */
-.next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
-  
-  /* On hover, add a black background color with a little bit see-through */
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
+slider > * {
+    position: absolute;
+    display: block;
+    width: 50%;
+    height: 90%;
+    animation: slide 12s infinite;
+    overflow: hidden;
+}
 
-  .dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
+slide:nth-child(1) {
+    left: 0%;
+    animation-delay: -1s;
+    background-image: url(https://live.staticflickr.com/65535/52105380629_36d819fd17_k.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+slide:nth-child(2) {
+    left: 0%;
+    animation-delay: 2s;
+    background-image: url(https://live.staticflickr.com/65535/52105635365_c7532cab30_k.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+slide:nth-child(3) {
+    left: 0%;
+    animation-delay: 5s;
+    background-image: url(https://live.staticflickr.com/65535/52105167993_6e0784fbc8_k.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+slide p {
+    text-align: center;
     display: inline-block;
-    transition: background-color 0.6s ease;
-  }
-  
-  .active, .dot:hover {
-    background-color: #717171;
-  }
+    font-size: 50px;
+}
+
+@keyframes slide {
+    0% { left: 100% ; width: 100% ;}
+    5% {left: 0%;}
+    25% {left: 0%;}
+    30% {left: -100%; width: 100%;}
+    30.0001% {left: -100%; width: 0%;}
+    100% { left: 100%; width: 0%;}
+}
+
+
+ 
