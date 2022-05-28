@@ -133,6 +133,26 @@ nav ul a:focus {
     padding-right: 20px;
 }
 
+.footer{
+    background-color: #0f6952;
+    padding: 10px;
+}
+
+.footerPicAndText{
+    display: flex;
+}
+
+#footerP{
+    color:rgb(171, 240, 232);
+    padding-top: 50px;
+    padding-left: 40px;
+    /* padding-right: 40px; */
+    font-size: 30px;
+    width: 40%;
+    text-align: right;
+}
+
+
 .jobDiv{
     padding: 15px;
     margin: auto;
@@ -156,25 +176,6 @@ nav ul a:focus {
     margin: auto;
     justify-content: center;
     padding-top: 20px;
-}
-
-.footer{
-    display: flex;
-    background-color: #0f6952;
-    padding: 20px;
-}
-
-.footerPicAndText{
-    display: flex;
-}
-
-#footerP{
-    color:rgb(171, 240, 232);
-    padding-top: 50px;
-    padding-left: 40px;
-    /* padding-right: 40px; */
-    font-size: 30px;
-    width: 40%;
 }
 
 .burdockImg{
