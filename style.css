@@ -8,6 +8,7 @@
 .projectBody{
     padding-left: 20px;
     padding-right: 20px;
+    background-color: #0f6952;
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -156,6 +157,7 @@ nav ul a:focus {
     padding: 15px;
     margin: auto;
     width: 70%;
+    background-color: #0c493a;
 }
 
 .jobP{
@@ -163,6 +165,7 @@ nav ul a:focus {
     text-align: center;
     width: 60%;
     font-size: 30;
+    color:rgb(215, 242, 239);
 }
 
 .socialfyVideo{
@@ -212,8 +215,9 @@ nav ul a:focus {
 
 .courseSemester{
     font-weight: bold;
-    background-color: #025e47;
+    background-color: #0f6952;
     color:rgb(215, 242, 239);
+    padding: 10px;
 }
 
 .courseDesc{
