@@ -251,19 +251,19 @@ nav ul a:focus {
 }
 
 .programmingLang{
-    width: 300px;
+    width: 400px;
     background-color: rgb(47, 108, 94);
     color: rgb(171, 240, 232);
     padding: 20px;
-    margin-left: 100px;
+    margin-left: 300px;
 }
 
 .software{
-    width: 300px;
+    width: 400px;
     background-color: rgb(171, 240, 232);
     color: rgb(47, 108, 94);
     padding: 20px; 
-    margin-left: 100px;
+    margin-left: 200px;
 }
 
 .icon{
