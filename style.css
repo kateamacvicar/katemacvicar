@@ -238,3 +238,6 @@ nav ul a:focus {
     padding: 10px;
 }
 
+.projectIcons{
+    display: flex;
+}
