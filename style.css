@@ -217,9 +217,9 @@ nav ul a:focus {
 } */
 
 .expHeading{
+    margin: auto;
     color: rgb(5, 91, 71);
     font-weight: bold;
-    padding: -200px;
 }
 
 .skillsHeading{
