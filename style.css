@@ -13,8 +13,6 @@
 }
 
 .skillsBody{
-    display: flex;
-    background-image: url(https://live.staticflickr.com/65535/52105705824_f468428796_b.jpg);
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -234,9 +232,19 @@ nav ul a:focus {
 }
 
 .skills{
-    background-color: #0f6952;
-    padding: 30px;
+    display: flex;
+}
+
+.programmingLang{
+    padding: 40px;
+    background-color: #0a5345;
     color: rgb(171, 240, 232);
+}
+
+.software{
+    padding: 40px;
+    background-color: rgb(171, 240, 232);
+    color: #0a5345; 
 }
 
 .icon{
