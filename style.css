@@ -240,4 +240,5 @@ nav ul a:focus {
 
 .projectIcons{
     display: flex;
+    margin: auto;
 }
