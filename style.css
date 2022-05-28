@@ -212,6 +212,8 @@ nav ul a:focus {
 
 .courseSemester{
     font-weight: bold;
+    background-color: #025e47;
+    color:rgb(215, 242, 239);
 }
 
 .courseDesc{
@@ -230,66 +232,3 @@ nav ul a:focus {
     padding: 10px;
 }
 
-.slideshow-container {
-    position: relative;
-    margin: auto;
-  }
-
-slider{
-    display: block;
-    width: 50%;
-    height: 90%;
-    overflow: hidden;
-    position: absolute;
-}
-
-slider > * {
-    position: absolute;
-    display: block;
-    width: 50%;
-    height: 90%;
-    animation: slide 12s infinite;
-    overflow: hidden;
-}
-
-slide:nth-child(1) {
-    left: 0%;
-    animation-delay: -1s;
-    background-image: url(https://live.staticflickr.com/65535/52105380629_36d819fd17_k.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
-slide:nth-child(2) {
-    left: 0%;
-    animation-delay: 2s;
-    background-image: url(https://live.staticflickr.com/65535/52105635365_c7532cab30_k.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
-slide:nth-child(3) {
-    left: 0%;
-    animation-delay: 5s;
-    background-image: url(https://live.staticflickr.com/65535/52105167993_6e0784fbc8_k.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
-slide p {
-    text-align: center;
-    display: inline-block;
-    font-size: 50px;
-}
-
-@keyframes slide {
-    0% { left: 100% ; width: 100% ;}
-    5% {left: 0%;}
-    25% {left: 0%;}
-    30% {left: -100%; width: 100%;}
-    30.0001% {left: -100%; width: 0%;}
-    100% { left: 100%; width: 0%;}
-}
-
-
- 
