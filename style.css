@@ -9,10 +9,12 @@
     padding-left: 20px;
     padding-right: 20px;
     background-color: #ecf6f2;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .skillsBody{
     display: flex;
+    font-family:'Times New Roman', Times, serif;
 }
 
 p{
@@ -127,8 +129,8 @@ nav ul a:focus {
     font-size: 30px;
     width: 40%;
     padding-top: 90px;
-    padding-left: 90px;
-    padding-right: 30px;
+    padding-left: 110px;
+    padding-right: 20px;
 }
 
 .jobDiv{
@@ -160,6 +162,10 @@ nav ul a:focus {
     display: flex;
     background-color: #0f6952;
     padding: 20px;
+}
+
+.footerPicAndText{
+    display: flex;
 }
 
 #footerP{
