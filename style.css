@@ -225,6 +225,7 @@ nav ul a:focus {
 }
 
 .courseSemester{
+    margin: auto;
     font-weight: bold;
     background-color: #0f6952;
     color:rgb(215, 242, 239);
@@ -233,6 +234,7 @@ nav ul a:focus {
 }
 
 .courseDesc{
+    margin: auto;
     width: 40%;
     text-align: center;
     padding: 10px;
@@ -240,16 +242,18 @@ nav ul a:focus {
 
 .skills{
     display: flex;
+    margin: auto;
+    padding: 30px;
 }
 
 .programmingLang{
-    width: 150px;
+    width: 300px;
     background-color: rgb(47, 108, 94);
     color: rgb(171, 240, 232);
 }
 
 .software{
-    width: 150px;
+    width: 300px;
     background-color: rgb(171, 240, 232);
     color: rgb(47, 108, 94); 
 }
