@@ -225,3 +225,13 @@ nav ul a:focus {
 .icon{
     padding: 10px;
 }
+
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+
+  .mySlides {
+    display: none;
+  }
