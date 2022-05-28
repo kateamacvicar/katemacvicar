@@ -257,10 +257,13 @@ nav ul a:focus {
     padding: 20px;
 }
 
+.langContainer{
+    margin: auto;
+}
+
 .usedLanguages{
     display: flex;
-    margin: auto;
-    align-items: center;
+
 }
 
 #ReactNative{
