@@ -156,11 +156,14 @@ nav ul a:focus {
 #projectsBTN{
     border-color: rgb(171, 240, 232);
     border: 1px solid;
+    background-color: rgb(47, 108, 94);
+
+}
+
+.buttonText{
     color: rgb(171, 240, 232);
     text-decoration: none;
     text-transform: uppercase;
-    background-color: rgb(47, 108, 94);
-
 }
 
 
