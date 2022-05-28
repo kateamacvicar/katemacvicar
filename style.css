@@ -119,13 +119,13 @@ nav ul a:focus {
 }
 
 #introHeading{
-    color: #025e47;
+    color: rgb(47, 108, 94);
     text-align: right;
     font-size: 35px;
 }
 
 #introP{
-    color: #025e47;
+    color: rgb(47, 108, 94);
     text-align: left;
     font-size: 30px;
     width: 40%;
@@ -135,7 +135,7 @@ nav ul a:focus {
 }
 
 .footer{
-    background-color: #0f6952;
+    background-color: rgb(47, 108, 94);
     padding: 10px;
 }
 
@@ -155,8 +155,9 @@ nav ul a:focus {
 
 #projectsBTN{
     border-color: rgb(171, 240, 232);
+    border-style: solid;
     color: rgb(171, 240, 232);
-    background-color: #0f6952;
+    background-color: rgb(47, 108, 94);
 
 }
 
@@ -241,14 +242,14 @@ nav ul a:focus {
 
 .programmingLang{
     width: 150px;
-    background-color: #0a5345;
+    background-color: rgb(47, 108, 94);
     color: rgb(171, 240, 232);
 }
 
 .software{
     width: 150px;
     background-color: rgb(171, 240, 232);
-    color: #0a5345; 
+    color: rgb(47, 108, 94); 
 }
 
 .icon{
