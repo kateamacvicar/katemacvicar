@@ -263,6 +263,7 @@ nav ul a:focus {
 
 .usedLanguages{
     display: flex;
+    padding: 10px;
 
 }
 
