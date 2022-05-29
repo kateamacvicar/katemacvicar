@@ -211,7 +211,6 @@ nav ul a:focus {
     text-align: center;
     padding: 20px;
     color:rgb(5, 91, 71);
-    background: rgb(213, 239, 236);
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -261,20 +260,11 @@ ul li {
     text-align: center;
 }
 
-.courseSemesterFall{
+.courseSemester{
     margin: auto;
     font-weight: bold;
-    background-color: #e4590e;
-    color:rgb(255, 255, 255);
-    padding: 10px;
-    width: 60%;
-}
-
-.courseSemesterSpring{
-    margin: auto;
-    font-weight: bold;
-    background-color: #13bd4f;
-    color:rgb(255, 255, 255);
+    background-color: #0f6952;
+    color:rgb(215, 242, 239);
     padding: 10px;
     width: 60%;
 }
