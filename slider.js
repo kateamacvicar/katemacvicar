@@ -6,14 +6,6 @@ $(function() {
         btnNext: '.slider-1 .buttons .next',
         auto: false
     });
-
-  new Slider({
-        images: '.slider-2 img',
-        btnPrev: '.slider-2 .buttons .prev',
-        btnNext: '.slider-2 .buttons .next',
-        auto: true,
-        rate: 2000
-    });
 });
 
 
@@ -57,7 +49,7 @@ function Slider(obj) {
     $(slider.btnNext).on('click', function(){ slider.next();});
 
     // For the automatic slider: this method calls the next function at the set rate
-  if (slider.auto)  {
+/*   if (slider.auto)  {
         setInterval(slider.next, slider.rate);
-    }
+    } */
 };
