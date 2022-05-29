@@ -222,6 +222,11 @@ nav ul a:focus {
     font-weight: bold;
 }
 
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+
 .skillsHeading{
     color: rgb(5, 91, 71);
     font-weight: bold;
@@ -255,7 +260,7 @@ nav ul a:focus {
     background-color: rgb(47, 108, 94);
     color: rgb(171, 240, 232);
     padding: 20px;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 
 .software{
@@ -263,7 +268,7 @@ nav ul a:focus {
     background-color: rgb(171, 240, 232);
     color: rgb(47, 108, 94);
     padding: 20px; 
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 .icon{
