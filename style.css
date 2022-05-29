@@ -258,10 +258,10 @@ ul{
 
 .programmingLang{
     width: 400px;
-    background-color: rgb(108, 47, 105);
+    background-color: rgb(47, 108, 94);
     color: rgb(171, 240, 232);
     padding: 20px;
-    margin-left: 250px;
+    margin-left: 270px;
 }
 
 .software{
@@ -269,7 +269,7 @@ ul{
     background-color: rgb(171, 240, 232);
     color: rgb(47, 108, 94);
     padding: 20px; 
-    margin-left: 50px;
+    margin-left: 70px;
 }
 
 .icon{
