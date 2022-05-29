@@ -63,9 +63,10 @@
     <h4> Wellesley, MA 02481 USA </h4> 
     <h4> (205) 391-8668 </h4>
     <h4> km1@wellesley.edu </h4> -->
-    <form method="post" action="mailto:km1@wellesley.edu" >
-      <input type=”text” size=”17″ name=”ContactName” placeholder="name"><br><br>
-      <input type=”text” size=”17″ name=”ContactEmail” placeholder="email"><br><br>
+    <form method="post" action="https://formsubmit.co/km1@wellesley.edu" >
+      <input type=”text” size=”17″ name=”name” placeholder="name" required><br><br>
+      <input type=”text” size=”17″ name=”email” placeholder="email" required><br><br>
+      <input type = "hidden" name = "_next" value = "https://yourdomain.co/thanks.html">
       <input type=”textArea” size=”17″ name=”Message” rows=”6″ cols=”20″ placeholder="message"><br><br>
       <input type="submit" value="Contact Me" />
     </form>
