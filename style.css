@@ -225,6 +225,7 @@ nav ul a:focus {
 ul{
     padding: 0px;
     margin: 0px;
+    justify-content: center;
 }
 
 .skillsHeading{
@@ -257,7 +258,7 @@ ul{
 
 .programmingLang{
     width: 400px;
-    background-color: rgb(47, 108, 94);
+    background-color: rgb(108, 47, 105);
     color: rgb(171, 240, 232);
     padding: 20px;
     margin-left: 250px;
