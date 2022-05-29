@@ -213,7 +213,7 @@ nav ul a:focus {
     text-align: center;
     padding: 20px;
     color:rgb(5, 91, 71);
-    background: rgb(215, 242, 239);
+    background: rgb(227, 247, 245);
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -321,26 +321,8 @@ ul li {
     margin-right: 10px;
 }
 
-#ReactNative{
-    padding: 10px;
-    background-color: #000000;
-    color: rgb(0, 229, 255);
-}
-
-#Firebase{
-    padding: 10px;
-    background-color: #000000;
-    color: rgb(255, 187, 0);
-}
-
-#JS{
-    padding: 10px;
-    background-color: #000000;
-    color: rgb(255, 252, 88);
-}
-
 #contactBtn{
-    background-color: rgb(226, 96, 113);
+    background-color: rgb(47, 108, 94);
     border: 0px;
     border-radius: 10px;
     color: white;
@@ -354,7 +336,7 @@ ul li {
 }
 
 #contactBtn:hover {
-    background-color: rgb(220, 44, 67);
+    background-color: rgb(171, 240, 232);
 }
 
 #contactBtn span {
