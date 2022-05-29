@@ -1,4 +1,4 @@
-/* $(function() {
+$(function() {
 
     new Slider({
         images: '.slider-1 img',
@@ -60,6 +60,4 @@ function Slider(obj) {
   if (slider.auto)  {
         setInterval(slider.next, slider.rate);
     }
-}; */
-
-document.write("HELLO THERE!!!!!!!")
+};
