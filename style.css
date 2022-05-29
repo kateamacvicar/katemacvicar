@@ -225,7 +225,7 @@ nav ul a:focus {
 ul{
     padding: 0px;
     margin: 0px;
-    justify-content: center;
+    padding-left: 50px;
 }
 
 .skillsHeading{
