@@ -315,14 +315,24 @@ ul li {
 }
 
 #contactBtn{
-    background-color: rgb(78, 226, 221);
+    background-color: rgb(226, 96, 113);
     border: 0px;
     color: white;
     font-size: 20px;
+    text-align: center;
     padding: 10px;
     width: 30px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
 }
 
+#contactBtn:hover {
+    background-color: rgb(220, 44, 67);
+}
 
 
 
