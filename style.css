@@ -55,6 +55,11 @@ a{
     color: white;
 }
 
+textarea{
+    resize: none;
+    border: 0;
+}
+
 #pageSubHeader{
     color: rgb(156, 154, 154) ;
     text-align: center;
@@ -221,7 +226,7 @@ nav ul a:focus {
     border: 0;
     border-radius: 5px;
     outline: 0;
-	width: 40%;
+	width: 30%;
 	margin: 0 0 15px;
 	padding: 15px;
 	font-size: 14px;
@@ -231,7 +236,7 @@ nav ul a:focus {
     border: 0;
     background-color:rgb(5, 91, 71);
     padding: 20px;
-    width: 40%;
+    width: 30%;
     font-size: 20px;
 }
 
