@@ -261,11 +261,20 @@ ul li {
     text-align: center;
 }
 
-.courseSemester{
+.courseSemesterFall{
     margin: auto;
     font-weight: bold;
-    background-color: #0f6952;
-    color:rgb(215, 242, 239);
+    background-color: #e4590e;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+    width: 60%;
+}
+
+.courseSemesterSpring{
+    margin: auto;
+    font-weight: bold;
+    background-color: #13bd4f;
+    color:rgb(255, 255, 255);
     padding: 10px;
     width: 60%;
 }
