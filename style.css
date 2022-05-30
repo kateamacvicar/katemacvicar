@@ -123,7 +123,6 @@ nav ul a:focus {
 }
 
 .headerTxt{
-    position: fixed;
     margin-top: -200px;
     margin-left: 400px;
     color: white;
