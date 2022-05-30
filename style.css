@@ -58,6 +58,7 @@ a{
 textarea{
     resize: none;
     border: 0;
+    background-color: rgb(233, 233, 233);
 }
 
 #pageSubHeader{
@@ -221,7 +222,8 @@ nav ul a:focus {
 	width: 30%;
 	margin: 0 0 15px;
 	padding: 15px;
-	font-size: 14px;
+	font-size: 20px;
+    color:rgb(21, 21, 21);
     background-color: rgb(233, 233, 233);
 }
 
