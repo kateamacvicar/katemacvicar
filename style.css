@@ -117,7 +117,15 @@ nav ul a:focus {
     margin: auto;
     display: block;
     justify-content: center;
+    position: fixed;
+    z-index: 8;
     
+}
+
+.headerTxt{
+    position: fixed;
+    z-index: 9;
+
 }
 
 .intro{
