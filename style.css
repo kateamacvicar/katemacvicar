@@ -174,7 +174,7 @@ nav ul a:focus {
 .jobDiv{
     padding: 15px;
     margin: auto;
-    width: 60%;
+    width: 50%;
     background-color: #ffffff;
 }
 
@@ -183,7 +183,7 @@ nav ul a:focus {
     text-align: center;
     width: 60%;
     font-size: 30;
-    color:rgb(215, 242, 239);
+    color:rgb(5, 91, 71);
 }
 
 .socialfyVideo{
