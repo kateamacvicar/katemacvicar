@@ -7,9 +7,14 @@
   margin: auto;
 }
 
+.containers-wrapper{
+  position: relative;
+}
+
 /* Make the images invisible by default */
 .Containers {
   display: none;
+  max-width: 100%;
 }
 
 /* forward & Back buttons */
