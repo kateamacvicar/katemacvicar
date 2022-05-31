@@ -138,7 +138,7 @@ nav ul a:focus {
 }
 
 #resumeBtn{
-    margin-left: 390px;
+    margin: auto;
     border: 0;
     border-radius: 5px;
     width: 10%;
