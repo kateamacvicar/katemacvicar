@@ -123,10 +123,24 @@ nav ul a:focus {
 }
 
 .headerTxt{
-    margin-top: -200px;
+    margin-top: -300px;
     margin-left: 400px;
-    color: white;
     z-index: 9;
+}
+
+#landingHeader{
+    font-size: 50px;
+    color: rgb(24, 24, 24);
+}
+
+#landingsubheader{
+    font-size: 40px;
+    color: white;
+}
+
+#resumeBtn{
+    margin-left: 50px;
+
 }
 
 .intro{
